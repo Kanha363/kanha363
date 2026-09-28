@@ -57,7 +57,7 @@ I'm an aspiring **Data Analyst** passionate about transforming complex datasets 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛍️ E-Commerce Sales Insights** | Analyzed 50k+ sales records to identify churn patterns and revenue drivers. Built an interactive executive dashboard. | SQL, Python, Power BI |
+| **🛍️ E-Commerce Sales Insights** | Analyzed 10k+ sales records to identify churn patterns and revenue drivers. Built an interactive executive dashboard. | SQL, Python, Power BI |
 | **🎯 Customer Segmentation (RFM)** | Segmented users into high-value cohorts using RFM analysis for targeted marketing campaigns. | PostgreSQL, Pandas, Seaborn |
 | **📉 Financial Trend Analysis** | Automated quarterly revenue trend reporting and forecast visualizations for business decision-making. | Excel (VBA/DAX), Python |
 
