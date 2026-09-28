@@ -53,7 +53,7 @@ I'm an aspiring **Data Analyst** passionate about transforming complex datasets 
 
 ---
 
-### 🚀 Featured Analytics Projects
+### 🚀 Future Data Analytics Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
