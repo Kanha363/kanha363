@@ -20,7 +20,7 @@ and skills into something useful. ⚡
 I'm an aspiring **Data Analyst** passionate about transforming complex datasets into actionable business intelligence and interactive dashboards. I specialize in **Data Cleaning, Exploratory Data Analysis (EDA), SQL Querying, and Visual Storytelling**.
 
 - 🔭 **Current Focus:** Advanced SQL , Power BI Dashboards, and Predictive Analytics
-- 🛠️ **Core Skills:** Python (Pandas/NumPy), MySQL, Power BI, Tableau, Advanced Excel
+- 🛠️ **Core Skills:** Python (Pandas/NumPy), MySQL, Power BI, Advanced Excel
 - 📊 **What I Do:** Business metrics extraction, and data-driven storytelling
 - 💡 **Interests:** E-commerce Analytics, Financial Data Modeling, and Open Data Sets
 - 📬 **Reach me:** guptaharshit1206@gmail.com**
