@@ -21,7 +21,7 @@ I'm an aspiring **Data Analyst** passionate about transforming complex datasets 
 
 - 🔭 **Current Focus:** Advanced SQL , Power BI Dashboards, and Predictive Analytics
 - 🛠️ **Core Skills:** Python (Pandas/NumPy), MySQL, Power BI, Tableau, Advanced Excel
-- 📊 **What I Do:** Business metrics extraction, customer segmentation, and data-driven storytelling
+- 📊 **What I Do:** Business metrics extraction, and data-driven storytelling
 - 💡 **Interests:** E-commerce Analytics, Financial Data Modeling, and Open Data Sets
 - 📬 **Reach me:** guptaharshit1206@gmail.com**
 
@@ -34,7 +34,7 @@ I'm an aspiring **Data Analyst** passionate about transforming complex datasets 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 **Databases & Querying**
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -57,7 +57,7 @@ I'm an aspiring **Data Analyst** passionate about transforming complex datasets 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛍️ E-Commerce Sales Insights** | Analyzed 10k+ sales records to identify churn patterns and revenue drivers. Built an interactive executive dashboard. | SQL, Python, Power BI |
+| **🛍️ E-Commerce Sales Insights** | Analyzed 20k+ sales records to identify churn patterns and revenue drivers. Built an interactive executive dashboard. | SQL, Python, Power BI |
 | **🎯 Customer Segmentation (RFM)** | Segmented users into high-value cohorts using RFM analysis for targeted marketing campaigns. | PostgreSQL, Pandas, Seaborn |
 | **📉 Financial Trend Analysis** | Automated quarterly revenue trend reporting and forecast visualizations for business decision-making. | Excel (VBA/DAX), Python |
 
@@ -69,11 +69,7 @@ I'm an aspiring **Data Analyst** passionate about transforming complex datasets 
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanha363&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshit's GitHub Stats" />
-</p>
 
 ---
 
